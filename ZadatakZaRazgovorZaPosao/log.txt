@@ -1,0 +1,8 @@
+Aplikacija radi tako što se unesu ime, prezime i email u polje za ime, prezime i email, te se stisne na submit dugme.
+Prije ikakvog daljnjeg rada, provjerava se da ime i prezime ne sadrže brojeve te da je email u formatu emaila.
+Nakon klika na dugme,u slučaju da su podaci ispravni dugme se onesposobi na 1 minutu. 
+To je sve u Button1_ClickAsync funkciji.
+ValidateInput funkcija provjerava ispravnost unesenih podataka.
+Glavnina funkcionalnosti se odvija u FetchUserDataAndInsertItIntoDatabase funkciji, tamo se dohvaćaju JSON podaci sa API-ja te se provjerava da li se uneseno ime osobe ili email podudaraju s ijednim od imena na API-ju. Ako se podudaraju, dohvaćaju se svi ostali podaci tog korisnika te se spremaju u bazu podataka preko InsertJSNOData funkcije, a ako se ne podudaraju s nijednom osobom, u bazu podataka se spremaju samo uneseno ime, prezime i email.
+Nakon spremanja podataka u bazu podataka, izvršava se SendEmail funkcija koja šalje podatke koji se trebaju spremiti u bazu podataka na predodređeni email, u ovom slučaju testmail123465@fastmail.com, koji je isto email sa kojeg se šalju podaci.
+ 

@@ -1,0 +1,15 @@
+C:\Users\Ivan\source\repos\ZadatakZaRazgovorZaPosao\ZadatakZaRazgovorZaPosao\bin\Debug\ZadatakZaRazgovorZaPosao.exe.config
+C:\Users\Ivan\source\repos\ZadatakZaRazgovorZaPosao\ZadatakZaRazgovorZaPosao\bin\Debug\ZadatakZaRazgovorZaPosao.exe
+C:\Users\Ivan\source\repos\ZadatakZaRazgovorZaPosao\ZadatakZaRazgovorZaPosao\bin\Debug\ZadatakZaRazgovorZaPosao.pdb
+C:\Users\Ivan\source\repos\ZadatakZaRazgovorZaPosao\ZadatakZaRazgovorZaPosao\bin\Debug\ZadatakZaRazgovorZaPosao.xml
+C:\Users\Ivan\source\repos\ZadatakZaRazgovorZaPosao\ZadatakZaRazgovorZaPosao\obj\Debug\ZadatakZaRazgovorZaPosao.vbproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\ZadatakZaRazgovorZaPosao\ZadatakZaRazgovorZaPosao\obj\Debug\ZadatakZaRazgovorZaPosao.Resources.resources
+C:\Users\Ivan\source\repos\ZadatakZaRazgovorZaPosao\ZadatakZaRazgovorZaPosao\obj\Debug\ZadatakZaRazgovorZaPosao.vbproj.GenerateResource.cache
+C:\Users\Ivan\source\repos\ZadatakZaRazgovorZaPosao\ZadatakZaRazgovorZaPosao\obj\Debug\ZadatakZaRazgovorZaPosao.vbproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\ZadatakZaRazgovorZaPosao\ZadatakZaRazgovorZaPosao\obj\Debug\ZadatakZaRazgovorZaPosao.exe
+C:\Users\Ivan\source\repos\ZadatakZaRazgovorZaPosao\ZadatakZaRazgovorZaPosao\obj\Debug\ZadatakZaRazgovorZaPosao.xml
+C:\Users\Ivan\source\repos\ZadatakZaRazgovorZaPosao\ZadatakZaRazgovorZaPosao\obj\Debug\ZadatakZaRazgovorZaPosao.pdb
+C:\Users\Ivan\source\repos\ZadatakZaRazgovorZaPosao\ZadatakZaRazgovorZaPosao\obj\Debug\ZadatakZaRazgovorZaPosao.Form1.resources
+C:\Users\Ivan\source\repos\ZadatakZaRazgovorZaPosao\ZadatakZaRazgovorZaPosao\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ivan\source\repos\ZadatakZaRazgovorZaPosao\ZadatakZaRazgovorZaPosao\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ivan\source\repos\ZadatakZaRazgovorZaPosao\ZadatakZaRazgovorZaPosao\obj\Debug\ZadatakZaRazgovorZaPosao.vbproj.CopyComplete
